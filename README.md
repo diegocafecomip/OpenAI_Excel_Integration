@@ -14,9 +14,10 @@ O QUE VOCÊ PRECISA FAZER PARA TER A PLANILHA FUNCIONANDO?
 3.Cole sua chave de API na ABA API da planilha. 
 
 4.Talvez seja necessário acessar o Excel na Web se não tiver a guia Automatizar na Área de Trabalho do seu Excel.
+
 5. Adicione o Script a Planilha: CLIQUE na ABA "AUTOMATIZAR" , depois CLIQUE em NOVO SCRIPT, COLE o conteudo do arquivo Office_Script (.ts) dentro da caixa do EDITOR DE CODIGO no lado direito,  Se você Se quiser ter um botão para o script, insira um botão,clicando nos (...) ao lado do botão RUN do EDITOR DE CODIGO e CLIQUE em CRIAR BOTAO.
-6. 
-7. Curta e compartilhe
-8. 
-9. Não deixe de nos seguir no instagram @cafe.com.ip e  no YT @cafecomip
+
+6. Curta e compartilhe
+
+7. Não deixe de nos seguir no instagram @cafe.com.ip e  no YT @cafecomip
 
